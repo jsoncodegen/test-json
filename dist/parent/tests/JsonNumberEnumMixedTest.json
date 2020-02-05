@@ -1,0 +1,9 @@
+{
+	".description": "This tests number enum fields.",
+
+	"child": "parent/tests/child/JsonNumberEnum",
+	"local": "parent/tests/JsonNumberEnum",
+	"parent": "parent/JsonNumberEnum",
+	"root": "JsonNumberEnum",
+	"sibling": "parent/sibling/JsonNumberEnum"
+}

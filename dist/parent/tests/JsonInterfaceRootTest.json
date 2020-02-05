@@ -1,0 +1,25 @@
+{
+	".description": "This tests interface fields.",
+
+	"object_": "../../JsonInterface",
+	"objectWithDescription": ["../../JsonInterface", "This is an object."],
+	"objectOrNull": "../../JsonInterface?",
+	"arrayOfObjects": "../../JsonInterface[]",
+	"arrayOfObjectsAndNulls": "../../JsonInterface?[]",
+	"arrayOfObjectsOrNull": "../../JsonInterface[]?",
+	"arrayOfObjectsAndNullsOrNull": "../../JsonInterface?[]?",
+	"mapOfObjects": "../../JsonInterface{}",
+	"mapOfNullsAndObjects": "../../JsonInterface?{}",
+	"mapOfObjectsOrNull": "../../JsonInterface{}?",
+	"mapOfNullsAndObjectsOrNull": "../../JsonInterface?{}?",
+	"arrayOfMapsOfObjects": "../../JsonInterface{}[]",
+	"arrayOfMapsOfObjectsOrNull": "../../JsonInterface{}[]?",
+	"arrayOfNullsAndMapsOfObjects": "../../JsonInterface{}?[]",
+	"arrayOfMapsOfNullsAndObjects": "../../JsonInterface?{}[]",
+	"arrayOfNullsAndMapsOfNullsAndObjectsOrNull": "../../JsonInterface?{}?[]?",
+	"mapOfArraysOfObjects": "../../JsonInterface[]{}",
+	"mapOfArraysOfObjectsOrNull": "../../JsonInterface[]{}?",
+	"mapOfNullsAndArraysOfObjects": "../../JsonInterface[]?{}",
+	"mapOfArraysOfNullsAndObjects": "../../JsonInterface?[]{}",
+	"mapOfNullsAndArraysOfNullsAndObjectsOrNull": "../../JsonInterface?[]?{}?"
+}

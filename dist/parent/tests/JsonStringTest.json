@@ -1,0 +1,25 @@
+{
+	".description": "This tests string values.",
+
+	"name": "string",
+	"nameWithDescription": ["string", "This is a name."],
+	"nameOrNull": "string?",
+	"arrayOfNames": "string[]",
+	"arrayOfNamesAndNulls": "string?[]",
+	"arrayOfNamesOrNull": "string[]?",
+	"arrayOfNamesAndNullsOrNull": "string?[]?",
+	"mapOfNames": "string{}",
+	"mapOfNullsAndNames": "string?{}",
+	"mapOfNamesOrNull": "string{}?",
+	"mapOfNullsAndNamesOrNull": "string?{}?",
+	"arrayOfMapsOfNames": "string{}[]",
+	"arrayOfMapsOfNamesOrNull": "string{}[]?",
+	"arrayOfNullsAndMapsOfNames": "string{}?[]",
+	"arrayOfMapsOfNullsAndNames": "string?{}[]",
+	"arrayOfNullsAndMapsOfNullsAndNamesOrNull": "string?{}?[]?",
+	"mapOfArraysOfNames": "string[]{}",
+	"mapOfArraysOfNamesOrNull": "string[]{}?",
+	"mapOfNullsAndArraysOfNames": "string[]?{}",
+	"mapOfArraysOfNullsAndNames": "string?[]{}",
+	"mapOfNullsAndArraysOfNullsAndNamesOrNull": "string?[]?{}?"
+}

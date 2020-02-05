@@ -1,0 +1,25 @@
+{
+	".description": "This tests boolean values.",
+
+	"flag": "boolean",
+	"flagWithDescription": ["boolean", "This is a flag."],
+	"flagOrNull": "boolean?",
+	"arrayOfFlags": "boolean[]",
+	"arrayOfFlagsAndNulls": "boolean?[]",
+	"arrayOfFlagsOrNull": "boolean[]?",
+	"arrayOfFlagsAndNullsOrNull": "boolean?[]?",
+	"mapOfFlags": "boolean{}",
+	"mapOfNullsAndFlags": "boolean?{}",
+	"mapOfFlagsOrNull": "boolean{}?",
+	"mapOfNullsAndFlagsOrNull": "boolean?{}?",
+	"arrayOfMapsOfFlags": "boolean{}[]",
+	"arrayOfMapsOfFlagsOrNull": "boolean{}[]?",
+	"arrayOfNullsAndMapsOfFlags": "boolean{}?[]",
+	"arrayOfMapsOfNullsAndFlags": "boolean?{}[]",
+	"arrayOfNullsAndMapsOfNullsAndFlagsOrNull": "boolean?{}?[]?",
+	"mapOfArraysOfFlags": "boolean[]{}",
+	"mapOfArraysOfFlagsOrNull": "boolean[]{}?",
+	"mapOfNullsAndArraysOfFlags": "boolean[]?{}",
+	"mapOfArraysOfNullsAndFlags": "boolean?[]{}",
+	"mapOfNullsAndArraysOfNullsAndFlagsOrNull": "boolean?[]?{}?"
+}

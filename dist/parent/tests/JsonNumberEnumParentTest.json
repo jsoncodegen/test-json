@@ -1,0 +1,25 @@
+{
+	".description": "This tests number enum fields.",
+
+	"enum_": "../JsonNumberEnum",
+	"enumWithDescription": ["../JsonNumberEnum", "This is an enum."],
+	"enumOrNull": "../JsonNumberEnum?",
+	"arrayOfEnums": "../JsonNumberEnum[]",
+	"arrayOfEnumsAndNulls": "../JsonNumberEnum?[]",
+	"arrayOfEnumsOrNull": "../JsonNumberEnum[]?",
+	"arrayOfEnumsAndNullsOrNull": "../JsonNumberEnum?[]?",
+	"mapOfEnums": "../JsonNumberEnum{}",
+	"mapOfNullsAndEnums": "../JsonNumberEnum?{}",
+	"mapOfEnumsOrNull": "../JsonNumberEnum{}?",
+	"mapOfNullsAndEnumsOrNull": "../JsonNumberEnum?{}?",
+	"arrayOfMapsOfEnums": "../JsonNumberEnum{}[]",
+	"arrayOfMapsOfEnumsOrNull": "../JsonNumberEnum{}[]?",
+	"arrayOfNullsAndMapsOfEnums": "../JsonNumberEnum{}?[]",
+	"arrayOfMapsOfNullsAndEnums": "../JsonNumberEnum?{}[]",
+	"arrayOfNullsAndMapsOfNullsAndEnumsOrNull": "../JsonNumberEnum?{}?[]?",
+	"mapOfArraysOfEnums": "../JsonNumberEnum[]{}",
+	"mapOfArraysOfEnumsOrNull": "../JsonNumberEnum[]{}?",
+	"mapOfNullsAndArraysOfEnums": "../JsonNumberEnum[]?{}",
+	"mapOfArraysOfNullsAndEnums": "../JsonNumberEnum?[]{}",
+	"mapOfNullsAndArraysOfNullsAndEnumsOrNull": "../JsonNumberEnum?[]?{}?"
+}

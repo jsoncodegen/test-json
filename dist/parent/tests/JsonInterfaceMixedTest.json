@@ -1,0 +1,9 @@
+{
+	".description": "This tests interface fields.",
+
+	"child": "parent/tests/child/JsonInterface",
+	"local": "parent/tests/JsonInterface",
+	"parent": "parent/JsonInterface",
+	"root": "JsonInterface",
+	"sibling": "parent/sibling/JsonInterface"
+}

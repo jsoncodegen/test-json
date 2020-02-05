@@ -1,0 +1,25 @@
+{
+	".description": "This tests interface fields.",
+
+	"object_": "../sibling/JsonInterface",
+	"objectWithDescription": ["../sibling/JsonInterface", "This is an object."],
+	"objectOrNull": "../sibling/JsonInterface?",
+	"arrayOfObjects": "../sibling/JsonInterface[]",
+	"arrayOfObjectsAndNulls": "../sibling/JsonInterface?[]",
+	"arrayOfObjectsOrNull": "../sibling/JsonInterface[]?",
+	"arrayOfObjectsAndNullsOrNull": "../sibling/JsonInterface?[]?",
+	"mapOfObjects": "../sibling/JsonInterface{}",
+	"mapOfNullsAndObjects": "../sibling/JsonInterface?{}",
+	"mapOfObjectsOrNull": "../sibling/JsonInterface{}?",
+	"mapOfNullsAndObjectsOrNull": "../sibling/JsonInterface?{}?",
+	"arrayOfMapsOfObjects": "../sibling/JsonInterface{}[]",
+	"arrayOfMapsOfObjectsOrNull": "../sibling/JsonInterface{}[]?",
+	"arrayOfNullsAndMapsOfObjects": "../sibling/JsonInterface{}?[]",
+	"arrayOfMapsOfNullsAndObjects": "../sibling/JsonInterface?{}[]",
+	"arrayOfNullsAndMapsOfNullsAndObjectsOrNull": "../sibling/JsonInterface?{}?[]?",
+	"mapOfArraysOfObjects": "../sibling/JsonInterface[]{}",
+	"mapOfArraysOfObjectsOrNull": "../sibling/JsonInterface[]{}?",
+	"mapOfNullsAndArraysOfObjects": "../sibling/JsonInterface[]?{}",
+	"mapOfArraysOfNullsAndObjects": "../sibling/JsonInterface?[]{}",
+	"mapOfNullsAndArraysOfNullsAndObjectsOrNull": "../sibling/JsonInterface?[]?{}?"
+}

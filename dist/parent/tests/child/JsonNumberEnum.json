@@ -1,0 +1,8 @@
+{
+	".is": "enum",
+	".description": "This is a number enum.",
+
+	"Name": 0,
+	"NameWithDescription": [1, "This is a value."],
+	"NameOfFractionValue": 3.14
+}

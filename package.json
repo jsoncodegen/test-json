@@ -1,0 +1,17 @@
+{
+	"name": "jsoncodegen-test-json",
+	"description": "JSON files for testing jsoncodegen.",
+	"version": "1.0.0",
+	"author": {
+		"name": "András Parditka"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jsoncodegen/test-json.git"
+	},
+	"homepage": "https://github.com/jsoncodegen/test-json",
+	"bugs": {
+		"url": "https://github.com/jsoncodegen/test-json/issues"
+	}
+}

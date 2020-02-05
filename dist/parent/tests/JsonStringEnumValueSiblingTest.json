@@ -1,0 +1,28 @@
+{
+	".description": "This tests string enum value fields.",
+
+	"enumValue": "../sibling/JsonStringEnum.Name",
+	"enumValueWithDescription": [
+		"../sibling/JsonStringEnum.Name",
+		"This is an enum value."
+	],
+	"enumValueOrNull": "../sibling/JsonStringEnum.Name?",
+	"arrayOfEnumValues": "../sibling/JsonStringEnum.Name[]",
+	"arrayOfEnumValuesAndNulls": "../sibling/JsonStringEnum.Name?[]",
+	"arrayOfEnumValuesOrNull": "../sibling/JsonStringEnum.Name[]?",
+	"arrayOfEnumValuesAndNullsOrNull": "../sibling/JsonStringEnum.Name?[]?",
+	"mapOfEnumValues": "../sibling/JsonStringEnum.Name{}",
+	"mapOfNullsAndEnumValues": "../sibling/JsonStringEnum.Name?{}",
+	"mapOfEnumValuesOrNull": "../sibling/JsonStringEnum.Name{}?",
+	"mapOfNullsAndEnumValuesOrNull": "../sibling/JsonStringEnum.Name?{}?",
+	"arrayOfMapsOfEnumValues": "../sibling/JsonStringEnum.Name{}[]",
+	"arrayOfMapsOfEnumValuesOrNull": "../sibling/JsonStringEnum.Name{}[]?",
+	"arrayOfNullsAndMapsOfEnumValues": "../sibling/JsonStringEnum.Name{}?[]",
+	"arrayOfMapsOfNullsAndEnumValues": "../sibling/JsonStringEnum.Name?{}[]",
+	"arrayOfNullsAndMapsOfNullsAndEnumValuesOrNull": "../sibling/JsonStringEnum.Name?{}?[]?",
+	"mapOfArraysOfEnumValues": "../sibling/JsonStringEnum.Name[]{}",
+	"mapOfArraysOfEnumValuesOrNull": "../sibling/JsonStringEnum.Name[]{}?",
+	"mapOfNullsAndArraysOfEnumValues": "../sibling/JsonStringEnum.Name[]?{}",
+	"mapOfArraysOfNullsAndEnumValues": "../sibling/JsonStringEnum.Name?[]{}",
+	"mapOfNullsAndArraysOfNullsAndEnumValuesOrNull": "../sibling/JsonStringEnum.Name?[]?{}?"
+}

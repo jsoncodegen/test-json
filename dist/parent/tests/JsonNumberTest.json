@@ -1,0 +1,25 @@
+{
+	".description": "This tests number values.",
+
+	"count": "number",
+	"countWithDescription": ["number", "This is a count."],
+	"countOrNull": "number?",
+	"arrayOfCounts": "number[]",
+	"arrayOfCountsAndNulls": "number?[]",
+	"arrayOfCountsOrNull": "number[]?",
+	"arrayOfCountsAndNullsOrNull": "number?[]?",
+	"mapOfCounts": "number{}",
+	"mapOfNullsAndCounts": "number?{}",
+	"mapOfCountsOrNull": "number{}?",
+	"mapOfNullsAndCountsOrNull": "number?{}?",
+	"arrayOfMapsOfCounts": "number{}[]",
+	"arrayOfMapsOfCountsOrNull": "number{}[]?",
+	"arrayOfNullsAndMapsOfCounts": "number{}?[]",
+	"arrayOfMapsOfNullsAndCounts": "number?{}[]",
+	"arrayOfNullsAndMapsOfNullsAndCountsOrNull": "number?{}?[]?",
+	"mapOfArraysOfCounts": "number[]{}",
+	"mapOfArraysOfCountsOrNull": "number[]{}?",
+	"mapOfNullsAndArraysOfCounts": "number[]?{}",
+	"mapOfArraysOfNullsAndCounts": "number?[]{}",
+	"mapOfNullsAndArraysOfNullsAndCountsOrNull": "number?[]?{}?"
+}

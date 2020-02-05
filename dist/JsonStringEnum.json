@@ -1,0 +1,8 @@
+{
+	".is": "enum",
+	".description": "This is a string enum.",
+
+	"Name": "Value",
+	"NameWithDescription": ["ValueWithDescription", "This is a value."],
+	"NameOfEmptyValue": ""
+}

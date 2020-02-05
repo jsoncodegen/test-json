@@ -1,0 +1,25 @@
+{
+	".description": "This tests string enum fields.",
+
+	"enum_": "./child/JsonStringEnum",
+	"enumWithDescription": ["./child/JsonStringEnum", "This is an enum."],
+	"enumOrNull": "./child/JsonStringEnum?",
+	"arrayOfEnums": "./child/JsonStringEnum[]",
+	"arrayOfEnumsAndNulls": "./child/JsonStringEnum?[]",
+	"arrayOfEnumsOrNull": "./child/JsonStringEnum[]?",
+	"arrayOfEnumsAndNullsOrNull": "./child/JsonStringEnum?[]?",
+	"mapOfEnums": "./child/JsonStringEnum{}",
+	"mapOfNullsAndEnums": "./child/JsonStringEnum?{}",
+	"mapOfEnumsOrNull": "./child/JsonStringEnum{}?",
+	"mapOfNullsAndEnumsOrNull": "./child/JsonStringEnum?{}?",
+	"arrayOfMapsOfEnums": "./child/JsonStringEnum{}[]",
+	"arrayOfMapsOfEnumsOrNull": "./child/JsonStringEnum{}[]?",
+	"arrayOfNullsAndMapsOfEnums": "./child/JsonStringEnum{}?[]",
+	"arrayOfMapsOfNullsAndEnums": "./child/JsonStringEnum?{}[]",
+	"arrayOfNullsAndMapsOfNullsAndEnumsOrNull": "./child/JsonStringEnum?{}?[]?",
+	"mapOfArraysOfEnums": "./child/JsonStringEnum[]{}",
+	"mapOfArraysOfEnumsOrNull": "./child/JsonStringEnum[]{}?",
+	"mapOfNullsAndArraysOfEnums": "./child/JsonStringEnum[]?{}",
+	"mapOfArraysOfNullsAndEnums": "./child/JsonStringEnum?[]{}",
+	"mapOfNullsAndArraysOfNullsAndEnumsOrNull": "./child/JsonStringEnum?[]?{}?"
+}
