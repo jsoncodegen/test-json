@@ -1,7 +1,7 @@
 {
 	"name": "jsoncodegen-test-json",
 	"description": "JSON files for testing jsoncodegen.",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"author": {
 		"name": "András Parditka"
 	},
